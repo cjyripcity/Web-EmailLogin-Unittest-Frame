@@ -1,0 +1,23 @@
+[
+  {
+    "email": "cjsashgjghjfd",
+    "password": "cjy0731520",
+    "expect": "帐号或密码错误"
+  },
+  {
+    "email": "sdafdgghjkhjsfr",
+    "password": "",
+    "expect": "请输入密码"
+  },
+  {
+    "email": "",
+    "password": "casjdsddff",
+    "expect": "请输入帐号"
+  },
+  {
+    "email": "",
+    "password": "",
+    "expect": "请输入帐号"
+  }
+]
+
